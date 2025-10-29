@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import Modal from "./components/Modal/Modal.jsx";
-import TaskList from "./components/TaskList/Tasklist.jsx";
+import TaskList from "./components/TaskList/TaskList.jsx";
 import AddButton from "./components/AddButton/AddButton.jsx";
 
 function App() {
