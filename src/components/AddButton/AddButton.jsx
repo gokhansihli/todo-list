@@ -1,3 +1,6 @@
+import "./index.css";
+import "./App.css";
+
 export default function AddButton({ setIsModal }) {
   return (
     <button
